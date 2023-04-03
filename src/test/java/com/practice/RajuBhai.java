@@ -7,4 +7,8 @@ public class RajuBhai {
 public void raju() {
 	System.out.println("hello");
 }
+@Test
+public void apple() {
+	System.out.println("tasty apple");
+}
 }
